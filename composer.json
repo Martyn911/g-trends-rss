@@ -1,0 +1,21 @@
+{
+    "name": "martyn911/g-trends-rss",
+    "type": "library",
+    "description": "Google Trends to RSS feed for PHP",
+    "authors": [
+        {
+            "name": "Serhii Martynenko",
+            "email": "martyn922@gmail.com",
+            "role": "Founder"
+        }
+    ],
+    "support": {
+        "email": "martyn922@gmail.com"
+    },
+    "license": [
+        "MIT"
+    ],
+    "require": {
+        "x-fran/g-trends": "^3.1"
+    }
+}
